@@ -9,6 +9,4 @@
 
 🎬 I speak at conferences. You can find videos of talks below 
 
-![Video AskTom ](https://youtu.be/i3MiWGF2oOs)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i3MiWGF2oOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Youtube Video AskTom - Continuous Database Migrations](http://img.youtube.com/vi/i3MiWGF2oOs/0.jpg)](https://www.youtube.com/watch?v=i3MiWGF2oOs "Youtube Video AskTom - Continuous Database Migrations")
