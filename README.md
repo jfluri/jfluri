@@ -7,6 +7,4 @@
 
 ♠ I'm an [Oracle ACE](https://apexapps.oracle.com/pls/apex/f?p=119297:3::::::)
 
-🎬 I speak at conferences. You can find videos of talks below 
-
-[![Youtube Video AskTom - Continuous Database Migrations](http://img.youtube.com/vi/i3MiWGF2oOs/0.jpg)](https://www.youtube.com/watch?v=i3MiWGF2oOs "Youtube Video AskTom - Continuous Database Migrations")
+🎬 I speak at conferences. You can find videos of talks, panels and presentations [in this list](https://www.youtube.com/playlist?list=PLND1n28knCH9OdvjAP74UPnG_xlFugL9o)
