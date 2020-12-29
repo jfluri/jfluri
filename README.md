@@ -1,7 +1,7 @@
 ### About me 👩‍💻
 
 
-📝 I write blogposts on [Medium](https://medium.com/@jasminfluri)
+📝 I write blogposts on [Medium](https://medium.com/@jasminfluri) and on [SORA Magazine](https://magazine.souc.ch/author/jasminfluri/)
 
 🐦 You can find me on [Twitter](https://twitter.com/jasminfluri)
 
